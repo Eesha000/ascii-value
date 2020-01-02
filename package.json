@@ -1,0 +1,16 @@
+{
+  "name": "KeyCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d KeyCode"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://eesha000.github.io/ascii-value",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
